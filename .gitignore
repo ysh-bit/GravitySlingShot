@@ -1,0 +1,12 @@
+# Compiled Java class files
+*.class
+
+# Local runtime telemetry output
+slingshot_telemetry.txt
+
+# OS & IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
